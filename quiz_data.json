@@ -1,0 +1,86 @@
+[
+    {
+        "1": "What will you do if you meet a new person ?",
+        "2": "What role will you choose if you take part in an event e.g.: 'ideathon' in a group of four ?",
+        "3": "What if you come across a new path in your daily route ?",
+        "4": "What will you do If you see a pothole on the road ?",
+        "5": "you are working in a team and your mate has got stuck in a problem what will you do ?",
+        "6": "what will you choose as free time task ?",
+        "7": "Which post you will prefer for a job in any company ?",
+        "8": "What kind of sports would you like to participate ?",
+        "9": "In an exam last 10 min are remaining and now you can only write any one question from following, which option will you select ?",
+        "10": "will you participate in the following ?"
+    },
+    {
+        "1": [
+            "A. Try to know that person by talking",          
+            "B. Try to avoid communication with him/her",            
+            "C. Try to be helpful and humble with him/her",           
+            "D. Avoid that person and leave the place" 
+        ],
+        
+	"2": [
+            "A. Present the idea",  
+            "B. Find the solution to the given problem",
+            "C. Create a GUI design or chart",
+	        "D. Creata final powerpoint slides"
+        ],
+        
+        "3": [
+            "A. Avoid that path and follow the daily route",   
+	        "B. Take that path out of curiousity",
+	        "C. Ask others about that new path",
+	        "D. Take some friends to discover that new path"	 
+        ],
+        
+	"4": [
+            "A. Try to find a solution of filling that pothole by contacting the responsible authority",
+	        "B. Complain about it to everyone about the failure of Government working",
+	        "C. Fill that pothole by yourself with the help of few people",
+	        "D. Ignore it"
+        ],
+        
+	"5": [
+            "A. Ask an appropriate person for help",   
+            "B. Try to solve his problem by yourself",
+	        "C. Discuss with your friends to find a solution to his problems",
+	        "D. Ignore him"
+	    	
+        ],
+        
+	"6": [
+            "A. D.I.Y. craft",
+	        "B. Solving a puzzle/sudoku", 
+	        "C. Take a challenge and Solve it",  
+            "D. Playing Cricket or Online Multiplayer games with your group of friends" 
+        ],
+        
+	"7": [
+            "A. Designer",
+            "B. Developer",
+            "C. Sales executive",
+	    "D. Avoid job be an entrepreneur"
+        ],
+        
+	"8": [
+            "A. Footbal",
+	    "B. Cricket",
+	    "C. Boxing",
+	    "D. NOTA"	
+        ],
+        
+	"9": [
+            "A. Mathematical question",
+	    "B. Long Descriptive type",
+	    "C. Draw a complex digram & Pie chart",
+	    "D. Leave the questions"	 
+        ],
+
+	"10": [
+	    "A. Scribble",  
+	    "B. Speech",
+	    "C. Group Discussion", 
+	    "D. None"
+        ]
+    }
+]
